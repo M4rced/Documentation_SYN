@@ -1,8 +1,9 @@
-# Documentation Ubico
+# Documentation SYN
 ___
 ## Founders:
 * Juan Pablo campuzano botero
 * Nicolas Rendon Lenis
+* Samantha Castaño
 * Yenny Marcela Vargas Rincón
 
 ### Table of Contents
